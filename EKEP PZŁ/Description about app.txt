@@ -1,0 +1,9 @@
+PZŁ EKEP
+App version: 1.8.4
+
+Device: Xiaomi Redmi Note 9 Pro
+Model: M2003J6B2G
+MIUI version: MIUI Global 12.5.6 Stable
+Android version: 11 RKQ1.200826.002
+Kerner version: 4.14.180-perf-g460df13e1844
+
