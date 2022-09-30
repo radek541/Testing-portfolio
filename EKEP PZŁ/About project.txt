@@ -1,0 +1,11 @@
+EKEP PZŁ is a hunting application developed for the Polish Hunting Association.
+The application has many options for users such as hunting books, current hunting, hunting plans and many more....
+
+I chose this app because I have experience in using it. I know that the app is not very big, but it has some special features that I can test.
+
+To start with, I want to make scenarios and test cases to learn how to do it correctly. 
+In this project I am using: Jira, GitHub Desktop, MS Office. 
+Maybe in the future I will do automated tests, but currently I don't have the knowledge about test automation in a smartphone (android). 
+I know how to do automation test in web browsers(selenium).
+
+In the repository I post test scenarios, test cases, bugs, screenshots, pdf and more.
